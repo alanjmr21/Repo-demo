@@ -1,4 +1,4 @@
 # Hello, this is a demo repository
 
-Author: Alan Muñoz
-Identifier: a01252054
+- Author: Alan Muñoz
+- Identifier: a01252054
